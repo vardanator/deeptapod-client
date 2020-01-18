@@ -1,0 +1,19 @@
+{
+  "name": "deeptapod-client",
+  "version": "0.0.1",
+  "description": "Node.js client for deeptapod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vardanator/deeptapod-client.git"
+  },
+  "author": "vardanator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vardanator/deeptapod-client/issues"
+  },
+  "homepage": "https://github.com/vardanator/deeptapod-client#readme"
+}
