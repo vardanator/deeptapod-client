@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/vardanator/deeptapod-client/issues"
   },
-  "homepage": "https://github.com/vardanator/deeptapod-client#readme"
+  "homepage": "https://github.com/vardanator/deeptapod-client#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
 }
